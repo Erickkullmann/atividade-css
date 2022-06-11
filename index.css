@@ -1,6 +1,6 @@
 .titulo{
     background-color: orange;
-    color: white;
+    color: black;
     padding: 10px;
     font-family: 'Dancing Script', cursive;
 }
@@ -12,4 +12,15 @@
 
 .bloco2{
     font-family: 'Dancing Script', cursive;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: 5px double red;
+    border-right: 5px double red;
+    border-left: 5px double red;
+    border-bottom: 5px double red;
+
+
+
+
+
 }
